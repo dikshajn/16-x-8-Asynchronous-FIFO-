@@ -8,7 +8,7 @@
   
 </head>
 <body>
-  <h1>16x8 Asynchronous FIFO Design</h1>
+  <h1>INTRODUCTION</h1>
   <p>A 16x8 Asynchronous FIFO (First-In, First-Out) design is a crucial hardware component utilized in digital systems for data buffering and synchronization purposes. It facilitates efficient data transfer between different subsystems by storing and retrieving data in a first-in, first-out manner.</p>
 
   <img src="image1.PNG" alt="16x8 Asynchronous FIFO Design">
